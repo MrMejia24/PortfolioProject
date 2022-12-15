@@ -66,5 +66,5 @@
         it really easy to deploy static websites following a continuous integration and delivery model. It has capabilities for 
         "building" more complicated Javascript framework based applications and has features such as feature branch deployments, easy 
         custom domain setup, instant deployments, and password protection.
-
+        
 Link to this module: https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-1/?refid=ps_a131l0000085ejvqam&trkcampaign=acq_paid_search_brand
