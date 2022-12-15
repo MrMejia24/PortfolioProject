@@ -32,7 +32,7 @@
         c. Select CodeCommit
         d. Select your Repository "wildrydes-site" and select Next
         e. On the Configuration Building Settings leave all the defaults and acknowledge "Allow AWS Amplify to 
-        automatically deploy all files hosted in your project root directory
+        automatically deploy all files hosted in your project root directory"
         f. On "review" select Save and Deploy
         g. The process takes a couple of minutes for AMplify Console to create the necessary resources and to deploy your code
         h. Once complete, click on the site image to launch your Wild Rydes site
