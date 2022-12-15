@@ -7,6 +7,7 @@
         d. Select Create
 
 ![Step 1](https://user-images.githubusercontent.com/101837302/207904875-159323a8-8f3b-4f1f-a241-61573c9b70aa.PNG)
+
 ![Step 2](https://user-images.githubusercontent.com/101837302/207904976-b0743f79-d77c-49c4-80eb-c4ac6880318c.PNG)
   
 ### 2. Create Git credentials for HTTPS connections to CodeCommit.
@@ -15,6 +16,7 @@
         c. Copy and save the username and password that IAM generated for you.
 
 ![Step 3](https://user-images.githubusercontent.com/101837302/207905159-9d7d77c3-73b3-4064-ae9e-a3f89e1c304d.PNG)
+
 ![Step 4](https://user-images.githubusercontent.com/101837302/207905160-b9d07528-df5a-4553-8f3a-85fa4c53d4d4.PNG)  
         
 ### 3. Creating a local repository
@@ -35,6 +37,7 @@
         - git push
 
 ![Step 6](https://user-images.githubusercontent.com/101837302/207901887-246753bd-d21a-4c12-b6fa-4e54db984e14.PNG)
+
 ![Step 7](https://user-images.githubusercontent.com/101837302/207902454-09016cef-a0ef-4729-89e7-d21f82aec1eb.PNG)
         
 ### 5. Enable Web Hosting with AWS Amplify Console
@@ -49,9 +52,13 @@
         h. Once complete, click on the site image to launch your Wild Rydes site
 
 ![Step 8](https://user-images.githubusercontent.com/101837302/207902678-7b76f691-1dd0-43c1-9793-ed8508510907.PNG)
+
 ![Step 9](https://user-images.githubusercontent.com/101837302/207902764-aa85e6fe-d541-4e02-ba98-04abfaa29ecc.PNG)
+
 ![Step 10](https://user-images.githubusercontent.com/101837302/207902856-3c9f4cdc-1455-4a3a-a8f6-137472baecea.PNG)
+
 ![Step 11](https://user-images.githubusercontent.com/101837302/207903118-30a156cf-7a7d-4ddc-aa31-7572ba8804dd.PNG)
+
 ![Step 12](https://user-images.githubusercontent.com/101837302/207903147-11a1f721-760b-4e59-a180-89a05127915e.PNG)
         
 ### 6. Recap
