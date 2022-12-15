@@ -28,13 +28,13 @@
 
 ### 4. Populate Git repository
         a. Change directory into your repository and copy the static files from GitHub repository:
-        - cd wildrydes-site
-        - git clone https://github.com/vitd39jc/wildrydes-site.git
-        - copy the items from the Github repository with the exception of the .git folder to your local repository created on Step 3a
+                - cd wildrydes-site
+                - git clone https://github.com/vitd39jc/wildrydes-site.git
+                - copy the items from the Github repository with the exception of the .git folder to your local repository created on Step 3a
         b. Commit the files to your Git Service
-        - git add .
-        - git commit -m 'new'
-        - git push
+                - git add .
+                - git commit -m 'new'
+                - git push
 
 ![Step 6](https://user-images.githubusercontent.com/101837302/207901887-246753bd-d21a-4c12-b6fa-4e54db984e14.PNG)
 
