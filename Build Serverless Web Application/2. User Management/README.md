@@ -21,7 +21,8 @@
 ![Step 5](https://user-images.githubusercontent.com/101837302/207910823-ce6bf7ad-9c0b-4651-aab2-c1653f905427.PNG)
         
 ### 3. Update the Website Config
-        a. Open the /js/config.js file with your favorite text editor and update the cognito section with your userPoolID and the userPoolClientID from step 2c
+        a. Open the /js/config.js file with your favorite text editor and update the cognito section with your userPoolID 
+        and the userPoolClientID from step 2c
         b. Use the username and password fro Step 2c
         c. Save the modified file and push it to your Git repository
                 - git add .
@@ -40,4 +41,5 @@
 
 ### 5. Recap 
 
-        In this module, you created an Amazon Cognito user pool to manage your users' accounts and you deployed pages that enable customers to register as new user, verify their email address, and sign into the site.
+        In this module, you created an Amazon Cognito user pool to manage your users' accounts and you deployed pages that enable 
+        customers to register as new user, verify their email address, and sign into the site.
