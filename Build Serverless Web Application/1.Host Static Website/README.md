@@ -16,7 +16,7 @@
         "git clone https://git-codecommit.us-east1.amazonaws.com/v1/repos/wildrydes-site"
         b. Use the username and password fro Step 2c
 
-<img src="Step 5.png">        
+Step 5.png        
       
 ### 4. Populate Git repository
         a. Change directory into your repository and copy the static files from GitHub repository:
