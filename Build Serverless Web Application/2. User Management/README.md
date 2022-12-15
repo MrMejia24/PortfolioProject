@@ -37,3 +37,7 @@
                 - if you use a dummy email, you can confirm the account thru the Cognito console
 
 ![Step 7](https://user-images.githubusercontent.com/101837302/207944974-6a3d74b3-5240-4c5c-8a4e-6ac34b5b7ebc.PNG)
+
+### 5. Recap 
+
+        In this module, you created an Amazon Cognito user pool to manage your users' accounts and you deployed pages that enable customers to register as new user, verify their email address, and sign into the site.
