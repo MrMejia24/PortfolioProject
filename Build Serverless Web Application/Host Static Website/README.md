@@ -2,7 +2,7 @@
 
 ### 1. Create a repository using AWS CodeCommit. Set repository to "wildryes-site". 
         a. Open AWS CodeCommit
-        b. Creste Repository
+        b. Create Repository
         c. Set Reposiroty name to "wildrydes-site"
         d. Select Create
   
@@ -20,6 +20,7 @@
         a. Change directory into your repository and copy the static files from GitHub repository:
         - cd wildrydes-site
         - git clone https://github.com/vitd39jc/wildrydes-site.git
+        - copy the items from the Github repository with the exception of the .git folder to your local repository created on Step 3a
         b. Commit the files to your Git Service
         - git add .
         - git commit -m 'new'
