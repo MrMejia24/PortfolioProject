@@ -1,6 +1,6 @@
 # Host a Static Website
 
-### 1. Create a repository using AWS CodeCommit. Set repository to "wildryes-site". 
+### 1. Create a repository using AWS CodeCommit. 
         a. Open AWS CodeCommit
         b. Create Repository
         c. Set Reposiroty name to "wildrydes-site"
@@ -12,7 +12,7 @@
   
 ### 2. Create Git credentials for HTTPS connections to CodeCommit.
         a. In the IAM Console, Choose Users and pick the the IAM user that you are going to utilize
-        b. Goto the Security Credential tab, and in HTTPS Git credentials for AWS Commit , choose Generate
+        b. Goto the Security Credential tab, and in HTTPS Git credentials for AWS Commit , choose Generate credentials
         c. Copy and save the username and password that IAM generated for you.
 
 ![Step 3](https://user-images.githubusercontent.com/101837302/207905159-9d7d77c3-73b3-4064-ae9e-a3f89e1c304d.PNG)
@@ -20,9 +20,10 @@
 ![Step 4](https://user-images.githubusercontent.com/101837302/207905160-b9d07528-df5a-4553-8f3a-85fa4c53d4d4.PNG)  
         
 ### 3. Creating a local repository
-        a. From terminal window run git clone and the HTTPS URL of the repository:
+        a. On the CodeCommit console, get the URL from your repository
+        b. From terminal window run git clone and the HTTPS URL of the repository:
         "git clone https://git-codecommit.us-east1.amazonaws.com/v1/repos/wildrydes-site"
-        b. Use the username and password fro Step 2c
+        c. Use the username and password fro Step 2c
 
 ![Step 5](https://user-images.githubusercontent.com/101837302/207901682-8be562db-7a08-4c19-ab9f-14a042638312.PNG)   
 
@@ -40,15 +41,14 @@
 
 ![Step 7](https://user-images.githubusercontent.com/101837302/207902454-09016cef-a0ef-4729-89e7-d21f82aec1eb.PNG)
         
-### 5. Enable Web Hosting with AWS Amplify Console
+### 5. Enable Web Hosting with AWS Amplify
         a. Open Amplify Console, click  Get Started
         b. Click on Get Started under "Host your web app"
         c. Select CodeCommit
         d. Select your Repository "wildrydes-site" and select Next
-        e. On the Configuration Building Settings leave all the defaults and acknowledge "Allow AWS Amplify to 
-        automatically deploy all files hosted in your project root directory"
+        e. On the Configuration Building Settings leave all the defaults and acknowledge "Allow AWS Amplify to automatically deploy all files hosted in your project root directory"
         f. On "review" select Save and Deploy
-        g. The process takes a couple of minutes for AMplify Console to create the necessary resources and to deploy your code
+        g. The process takes a couple of minutes for Amplify Console to create the necessary resources and to deploy your code
         h. Once complete, click on the site image to launch your Wild Rydes site
 
 ![Step 8](https://user-images.githubusercontent.com/101837302/207902678-7b76f691-1dd0-43c1-9793-ed8508510907.PNG)
