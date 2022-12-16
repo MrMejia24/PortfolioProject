@@ -11,7 +11,7 @@
 ![Step 2](https://user-images.githubusercontent.com/101837302/207904976-b0743f79-d77c-49c4-80eb-c4ac6880318c.PNG)
   
 ### 2. Create Git credentials for HTTPS connections to CodeCommit.
-        a. In the IAM Console, Choose Users and pick the the IAM userthat you are going to utilize
+        a. In the IAM Console, Choose Users and pick the the IAM user that you are going to utilize
         b. Goto the Security Credential tab, and in HTTPS Git credentials for AWS Commit , choose Generate
         c. Copy and save the username and password that IAM generated for you.
 
@@ -62,9 +62,6 @@
 ![Step 12](https://user-images.githubusercontent.com/101837302/207903147-11a1f721-760b-4e59-a180-89a05127915e.PNG)
         
 ### 6. Recap
-        In this module, you've created static website which will be the base for our Wild Rydes business. AWS Amplify Console makes
-        it really easy to deploy static websites following a continuous integration and delivery model. It has capabilities for 
-        "building" more complicated Javascript framework based applications and has features such as feature branch deployments, easy 
-        custom domain setup, instant deployments, and password protection.
+        In this module, you've created static website which will be the base for our Wild Rydes business. AWS Amplify Console makes it really easy to deploy static websites following a continuous integration and delivery model. It has capabilities for "building" more complicated Javascript framework based applications and has features such as feature branch deployments, easy custom domain setup, instant deployments, and password protection.
         
 Link to this module: https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-1/?refid=ps_a131l0000085ejvqam&trkcampaign=acq_paid_search_brand
