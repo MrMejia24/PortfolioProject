@@ -3,7 +3,7 @@
 ### 1. Create a New REST API. 
         a. Open API Gateway and Create API
         b. Select Build under REST API (No private) 
-                -  API Name: WildRydes
+                - API Name: WildRydes
                 - Endpoint Type: Edge optimized
                 - Create API
        
