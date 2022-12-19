@@ -1,7 +1,7 @@
 # User Management
 
 ### 1. Create an Amazon Cognito User Pool. 
-        a. Open AWS Cognito
+        a. Open Amazon Cognito
         b. Manage your User Pool, Create User Pool, Review Defaults, and Create Pool
         c. Save the Pool ID
         
