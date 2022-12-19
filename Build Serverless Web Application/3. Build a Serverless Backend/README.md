@@ -33,7 +33,7 @@
 ![Step 8](https://user-images.githubusercontent.com/101837302/207988975-f7b61ec5-b2ba-4282-8de7-a76d5ddb199d.PNG)
         
 ### 3. Create a Lambda function for handling request
-        a. Open LAmbda Console 
+        a. Open Lambda Console 
         b. Create function
                 - Author from scratch
                 - Name field: RequestUnicorn
