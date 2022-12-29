@@ -1,7 +1,7 @@
 # User Management
 
 ### 1. Create an Amazon Cognito User Pool. 
-        a. Open AWS Cognito
+        a. Open Amazon Cognito
         b. Manage your User Pool, Create User Pool, Review Defaults, and Create Pool
         c. Save the Pool ID
         
@@ -23,12 +23,11 @@
 ### 3. Update the Website Config
         a. Open the /js/config.js file with your favorite text editor and update the cognito section with your userPoolID 
         and the userPoolClientID from step 2c
-        b. Use the username and password from Step 2c
-        c. Save the modified file and push it to your Git repository
+        b. Save the modified file and push it to your Git repository
                 - git add .
                 - git commit -m "new_config"
                 - git push
-
+        
 ![Step 6](https://user-images.githubusercontent.com/101837302/207943601-105d22e2-1c96-4654-93ca-35046f8b80cc.PNG)
 
 ### 4. Validate your implementation
