@@ -2465,7 +2465,7 @@ button:disabled,
   display: block;
   width: 100%;
 }
-@media screen and (min-width: 1681px) {
+@media screen and (min-width: 400px) {
   .posts article:nth-child(3n + 1):before {
     display: none;
   }
