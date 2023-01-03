@@ -2467,7 +2467,7 @@ button:disabled,
 }
 @media only screen and (min-width: 1681px) {
   .posts article:nth-child(3n + 1):before {
-    display: none;
+    display: block;
   }
   .posts article:nth-child(3n + 1):after {
     width: 100%;
